@@ -42,11 +42,10 @@ ${
     .sort(sortProject)
     .map(project => {
       return [
-        `[${project.name}](${project.url})`,
+        `[${project.name}](${project.html_url})`,
         project.stargazers_count ? `(⭐ ${project.stargazers_count})` : false,
         [
           project.description ? `*${project.description.trim()}*` : false,
-          // project.homepage ? `[${project.homepage}](${project.homepage})` : false,
         ]
           .filter(Boolean)
           .join(" ")
@@ -85,7 +84,7 @@ const sortProject = (a, b) => {
 *   name: string
 *   description: string
 *   homepage: string
-*   url: string
+*   html_url: string
 *   stargazers_count: number
 *   pushed_at: string
 * }} Project
