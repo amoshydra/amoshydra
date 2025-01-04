@@ -27,8 +27,8 @@ Web Application that you can launch in your browser
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - *Web Remote Desktop For XR environment*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci)
 - [banglejs-home](https://github.com/amoshydra/banglejs-home) - *A home for BangleJS*
-- [js-camera](https://github.com/amoshydra/js-camera)
-- [og-image-previewer](https://github.com/amoshydra/og-image-previewer) - *See demo:*
+- [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
+- [og-image-previewer](https://github.com/amoshydra/og-image-previewer) - *See demo: https://amoshydra.github.io/og-image-previewer*
 - [boxmover-with-socketio](https://github.com/amoshydra/boxmover-with-socketio) - *Move boxes with people - http://boxmover.amoshydra.com*
 
 
@@ -56,7 +56,7 @@ Desktop made with electron
 - [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 14)
 - [webpack-module-federation-examples](https://github.com/amoshydra/webpack-module-federation-examples)
 - [hello-serverless](https://github.com/amoshydra/hello-serverless) - *A minimum template for an AWS Lambda deployment with Serverless Framework*
-- [quill-image-uploader](https://github.com/amoshydra/quill-image-uploader) - *Demo*
+- [quill-image-uploader](https://github.com/amoshydra/quill-image-uploader) - *Demo - https://amoshydra.github.io/quill-image-uploader/example*
 - [aws-image-generator](https://github.com/amoshydra/aws-image-generator) - *A demo of image generator with AWS lambda*
 
 
