@@ -1,0 +1,33 @@
+name: Update README.md
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Install Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Update
+      run: npm run update
+
+    - name: Commit
+      run: |
+        git config --global user.name "amoshydra[bot]"
+        git config --global user.email "amoshydra[bot]@amoshydra.github.io"
+        git add .
+        # "echo" returns true so the build succeeds, even if no changed files
+        git commit -m 'docs: update readme' || echo
+        git push
