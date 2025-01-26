@@ -67,8 +67,8 @@ A list of projects I used to worked on. They includes school projects or project
 - [AmazfitTaskerLink](https://github.com/amoshydra/AmazfitTaskerLink) - (⭐ 1) - *[Not maintained - I no londer use Amazfit] A fork of Amazfit Communication Library that add integration with Tasker*
 - [cs4350-vindicator](https://github.com/amoshydra/cs4350-vindicator) - (⭐ 1) - *VindicatoR -*
 - [PebbleRobotToy](https://github.com/amoshydra/PebbleRobotToy) - (⭐ 1) - *Pebble Robot Toy*
+- [CS3247-mini-proj](https://github.com/amoshydra/CS3247-mini-proj) - (⭐ 1) - *CS3247 mini projects*
 - [nus-mtp-sashimi-wiki-formatter](https://github.com/amoshydra/nus-mtp-sashimi-wiki-formatter) - *A requirements tracker for NUS MTP Lecture Note 2.0*
-- [CS3247-mini-proj](https://github.com/amoshydra/CS3247-mini-proj) - *CS3247 mini projects*
 - [GTA-5-Kinky-2.1-Extended](https://github.com/amoshydra/GTA-5-Kinky-2.1-Extended) - *GTA 5 Kinky 2.1 Extended*
 
 
