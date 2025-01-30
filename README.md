@@ -21,7 +21,7 @@ A list of NPM packages I publish
 
 Web Application that you can launch in your browser
 
-- [draw](https://github.com/amoshydra/draw) - (⭐ 298) - *Web canvas that support pen pressure*
+- [draw](https://github.com/amoshydra/draw) - (⭐ 299) - *Web canvas that support pen pressure*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci)
