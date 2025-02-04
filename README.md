@@ -10,7 +10,7 @@ A list of NPM packages I publish
 - [postgrest-syntax-builder](https://github.com/amoshydra/postgrest-syntax-builder) - (⭐ 3) - *PostgREST Syntax Builder*
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
-- [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - *Browser Capture Screenshot utilises the Region Capture API to capture screenshot of a given Element from the page.*
+- [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define)
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
