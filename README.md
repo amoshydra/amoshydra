@@ -24,8 +24,8 @@ Web Application that you can launch in your browser
 - [draw](https://github.com/amoshydra/draw) - (⭐ 299) - *Web canvas that support pen pressure*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
-- [CodeVinci](https://github.com/amoshydra/CodeVinci)
 - [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
+- [CodeVinci](https://github.com/amoshydra/CodeVinci)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - *Web Remote Desktop For XR environment*
 - [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
 - [og-image-previewer](https://github.com/amoshydra/og-image-previewer) - *See demo: https://amoshydra.github.io/og-image-previewer*
