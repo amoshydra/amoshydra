@@ -11,6 +11,7 @@ A list of NPM packages I publish
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
+- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define)
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
@@ -24,6 +25,7 @@ Web Application that you can launch in your browser
 - [draw](https://github.com/amoshydra/draw) - (⭐ 302) - *Web canvas that support pen pressure*
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
+- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
 - [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - *Web Remote Desktop For XR environment*
