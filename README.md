@@ -25,6 +25,7 @@ Web Application that you can launch in your browser
 - [draw](https://github.com/amoshydra/draw) - (⭐ 307) - *Web canvas that support pen pressure*
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
+- [anim-player](https://github.com/amoshydra/anim-player)
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
 - [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci)
