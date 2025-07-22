@@ -1,5 +1,15 @@
 # amoshydra
 
+Welcome to my GitHub profile. Here are a list of projects I publish.
+
+I am starting a blog too https://amoshydra.github.io/blog
+
+If you find my content helpful:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I71IGD57)
+
+
+
 <!-- START:projects -->
 
 
