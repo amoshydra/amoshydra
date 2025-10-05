@@ -66,7 +66,7 @@ Desktop made with electron
 
 
 
-- [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 14)
+- [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 12)
 - [webpack-module-federation-examples](https://github.com/amoshydra/webpack-module-federation-examples)
 - [hello-serverless](https://github.com/amoshydra/hello-serverless) - *A minimum template for an AWS Lambda deployment with Serverless Framework*
 - [quill-image-uploader](https://github.com/amoshydra/quill-image-uploader) - *Demo - https://amoshydra.github.io/quill-image-uploader/example*
@@ -89,7 +89,7 @@ A list of projects I used to worked on. They includes school projects or project
 
 
 
-- [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 14)
+- [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 12)
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
 - [AmazfitTaskerLink](https://github.com/amoshydra/AmazfitTaskerLink) - (⭐ 1) - *[Not maintained - I no londer use Amazfit] A fork of Amazfit Communication Library that add integration with Tasker*
 - [notification-tts](https://github.com/amoshydra/notification-tts)
