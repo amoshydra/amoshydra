@@ -32,7 +32,7 @@ A list of NPM packages I publish
 
 Web Application that you can launch in your browser
 
-- [draw](https://github.com/amoshydra/draw) - (⭐ 309) - *Web canvas that support pen pressure*
+- [draw](https://github.com/amoshydra/draw) - (⭐ 308) - *Web canvas that support pen pressure*
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - (⭐ 1) - *Web Remote Desktop For XR environment*
