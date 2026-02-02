@@ -21,6 +21,7 @@ A list of NPM packages I publish
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
+- [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define)
