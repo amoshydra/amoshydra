@@ -22,7 +22,7 @@ A list of NPM packages I publish
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
 - [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
-- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
+- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define)
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
@@ -40,7 +40,7 @@ Web Application that you can launch in your browser
 - [CodeVinci](https://github.com/amoshydra/CodeVinci) - *CodeVinci is a browser-based JavaScript playground that allows you to write and test code directly in your web browser. Built with esbuild, it provides a quick development environment with real-time preview capabilities and code persistence through URL.*
 - [piano](https://github.com/amoshydra/piano) - *Piano with WebAudio, keyboard playable*
 - [anim-player](https://github.com/amoshydra/anim-player)
-- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM execurable (NPX)*
+- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
 - [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
 - [og-image-previewer](https://github.com/amoshydra/og-image-previewer) - *See demo: https://amoshydra.github.io/og-image-previewer*
