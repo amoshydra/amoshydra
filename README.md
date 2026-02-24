@@ -24,7 +24,7 @@ A list of NPM packages I publish
 - [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
 - [license-debug](https://github.com/amoshydra/license-debug)
-- [useragent-define](https://github.com/amoshydra/useragent-define)
+- [useragent-define](https://github.com/amoshydra/useragent-define) - *Override user agent via a top level import. Useful for mocking user-agent in test or other playground environment*
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
 - [vue-model-table](https://github.com/amoshydra/vue-model-table)
 
