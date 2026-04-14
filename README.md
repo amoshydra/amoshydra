@@ -37,6 +37,7 @@ Web Application that you can launch in your browser
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - (⭐ 1) - *Web Remote Desktop For XR environment*
+- [wallet](https://github.com/amoshydra/wallet) - *A privacy-focused wallet web app for storing loyalty cards, membership cards, and tickets. All data is encrypted locally in your browser using AES-256-GCM.*
 - [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci) - *CodeVinci is a browser-based JavaScript playground that allows you to write and test code directly in your web browser. Built with esbuild, it provides a quick development environment with real-time preview capabilities and code persistence through URL.*
 - [piano](https://github.com/amoshydra/piano) - *Piano with WebAudio, keyboard playable*
@@ -69,6 +70,7 @@ Desktop made with electron
 
 
 - [tasker-js-runner](https://github.com/amoshydra/tasker-js-runner) - (⭐ 13)
+- [example-apache-conf](https://github.com/amoshydra/example-apache-conf)
 - [webpack-module-federation-examples](https://github.com/amoshydra/webpack-module-federation-examples)
 - [hello-serverless](https://github.com/amoshydra/hello-serverless) - *A minimum template for an AWS Lambda deployment with Serverless Framework*
 - [quill-image-uploader](https://github.com/amoshydra/quill-image-uploader) - *Demo - https://amoshydra.github.io/quill-image-uploader/example*
