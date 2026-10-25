@@ -21,9 +21,9 @@ A list of NPM packages I publish
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
-- [moneyspeak](https://github.com/amoshydra/moneyspeak) - *Turn a currency amount into a string a speech synthesizer reads correctly.*
 - [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
+- [moneyspeak](https://github.com/amoshydra/moneyspeak) - *Turn a currency amount into a string a speech synthesizer reads correctly.*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define) - *Override user agent via a top level import. Useful for mocking user-agent in test or other playground environment*
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
@@ -38,13 +38,13 @@ Web Application that you can launch in your browser
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - (⭐ 1) - *Web Remote Desktop For XR environment*
-- [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci) - *CodeVinci is a browser-based JavaScript playground that allows you to write and test code directly in your web browser. Built with esbuild, it provides a quick development environment with real-time preview capabilities and code persistence through URL.*
+- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
+- [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
 - [wallet](https://github.com/amoshydra/wallet) - *A privacy-focused wallet web app for storing loyalty cards, membership cards, and tickets. All data is encrypted locally in your browser using AES-256-GCM.*
 - [piano](https://github.com/amoshydra/piano) - *Piano with WebAudio, keyboard playable*
 - [anim-player](https://github.com/amoshydra/anim-player)
-- [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
 - [og-image-previewer](https://github.com/amoshydra/og-image-previewer) - *See demo: https://amoshydra.github.io/og-image-previewer*
 - [boxmover-with-socketio](https://github.com/amoshydra/boxmover-with-socketio) - *Move boxes with people - http://boxmover.amoshydra.com*
 
@@ -86,6 +86,7 @@ A list of projects I used to worked on. They includes school projects or project
 - [cs4350-vindicator](https://github.com/amoshydra/cs4350-vindicator) - (⭐ 1) - *VindicatoR -*
 - [PebbleRobotToy](https://github.com/amoshydra/PebbleRobotToy) - (⭐ 1) - *Pebble Robot Toy*
 - [CS3247-mini-proj](https://github.com/amoshydra/CS3247-mini-proj) - (⭐ 1) - *CS3247 mini projects*
+- [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
 - [nus-mtp-sashimi-wiki-formatter](https://github.com/amoshydra/nus-mtp-sashimi-wiki-formatter) - *A requirements tracker for NUS MTP Lecture Note 2.0*
 - [GTA-5-Kinky-2.1-Extended](https://github.com/amoshydra/GTA-5-Kinky-2.1-Extended) - *GTA 5 Kinky 2.1 Extended*
 
