@@ -22,8 +22,9 @@ A list of NPM packages I publish
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
-- [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [moneyspeak](https://github.com/amoshydra/moneyspeak) - *Turn a currency amount into a string a speech synthesizer reads correctly.*
+- [meow-loader](https://github.com/amoshydra/meow-loader) - *a m3u8 downloader as npx*
+- [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [license-debug](https://github.com/amoshydra/license-debug)
 - [useragent-define](https://github.com/amoshydra/useragent-define) - *Override user agent via a top level import. Useful for mocking user-agent in test or other playground environment*
 - [react-router-dom-with-prefix](https://github.com/amoshydra/react-router-dom-with-prefix) - *Provide nested prefix capability to React Router DOM 6*
@@ -38,8 +39,8 @@ Web Application that you can launch in your browser
 - [todo-calendar](https://github.com/amoshydra/todo-calendar) - (⭐ 1) - *Todo meet calendar*
 - [heart-rate-counter](https://github.com/amoshydra/heart-rate-counter) - (⭐ 1)
 - [web-remote-desktop-xr](https://github.com/amoshydra/web-remote-desktop-xr) - (⭐ 1) - *Web Remote Desktop For XR environment*
-- [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
+- [banglejs-home](https://github.com/amoshydra/banglejs-home) - *An alternative home for BangleJS Smartwatch*
 - [CodeVinci](https://github.com/amoshydra/CodeVinci) - *CodeVinci is a browser-based JavaScript playground that allows you to write and test code directly in your web browser. Built with esbuild, it provides a quick development environment with real-time preview capabilities and code persistence through URL.*
 - [js-camera](https://github.com/amoshydra/js-camera) - *A QR code scanner in the browser*
 - [wallet](https://github.com/amoshydra/wallet) - *A privacy-focused wallet web app for storing loyalty cards, membership cards, and tickets. All data is encrypted locally in your browser using AES-256-GCM.*
