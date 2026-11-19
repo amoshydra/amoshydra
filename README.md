@@ -19,9 +19,9 @@ A list of NPM packages I publish
 
 - [postgrest-syntax-builder](https://github.com/amoshydra/postgrest-syntax-builder) - (⭐ 3) - *PostgREST Syntax Builder*
 - [tasker-js-runner-project](https://github.com/amoshydra/tasker-js-runner-project) - (⭐ 2)
+- [meow-loader](https://github.com/amoshydra/meow-loader) - (⭐ 1) - *Download HLS (M3U8) streams into a single MP4 — fMP4/CMAF, byte ranges, separate audio, WebVTT subtitles, resume, and cURL paste. Cross-platform CLI, no re-encode.*
 - [time-chainer](https://github.com/amoshydra/time-chainer) - (⭐ 1) - *Create your milliseconds declaratively!*
 - [browser-capture-screenshot](https://github.com/amoshydra/browser-capture-screenshot) - (⭐ 1) - *Browser Capture Screenshot utilises the Element Capture API to capture screenshot of a given Element from the page.*
-- [meow-loader](https://github.com/amoshydra/meow-loader) - *Download HLS (M3U8) streams into a single MP4 — fMP4/CMAF, byte ranges, separate audio, WebVTT subtitles, resume, and cURL paste. Cross-platform CLI, no re-encode.*
 - [qpq](https://github.com/amoshydra/qpq) - *npx qpq - A terminal-based command launcher for frequently used commands. Built with TypeScript, React, and Ink.*
 - [visorium](https://github.com/amoshydra/visorium) - *An HTTP Media Gallery as an NPM executable (NPX)*
 - [moneyspeak](https://github.com/amoshydra/moneyspeak) - *Turn a currency amount into a string a speech synthesizer reads correctly.*
